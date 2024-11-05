@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @seshagirich
-- 👀 I’m interested in software development, API integrations, and cloud technology.
+- 👀 I’m interested in software development, API integrations.
 - 🌱 I’m currently learning advanced integration techniques with MuleSoft and data visualization.
 - 💞️ I’m looking to collaborate on projects involving API-led connectivity and integration solutions.
 - 📫 How to reach me seshuchennupati1@gmail.com
